@@ -1,0 +1,5 @@
+[workstation]
+workstation-7d1a.rhpds.opentlc.com ansible_connection=ssh ansible_ssh_user=esdras.depazlima-atos.net ansible_ssh_private_key_file=/root/.ssh/mykey.pem
+
+[awsbastion]
+bastion.2ca4.example.opentlc.com ansible_connection=ssh ansible_ssh_user=esdras.depazlima-atos.net ansible_ssh_private_key_file=/root/.ssh/mykey.pem
