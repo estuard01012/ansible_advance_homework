@@ -14,7 +14,7 @@
   - name: OpenStack servers
     os_server_facts:
       cloud: ospcloud
-      server: 'frontend'
+      server: frontend
     register: openstack_info
 
   - name: Curl website
