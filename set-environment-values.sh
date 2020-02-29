@@ -1,0 +1,9 @@
+#!/bin/bash
+OSP_GUID="7d1a"
+TOWER_GUID="2ca4"
+OPENTLC_LOGIN="esdras.depazlima-atos.net"
+GITHUB_REPO="https://github.com/estuard01012/ansible_advance_homework"
+JQ_REPO_BASE="http://www.opentlc.com/download/ansible_bootcamp"
+REGION="us-east-1"
+RH_MAIL_ID="esdras.depazlima"
+ANSIBLE_ADVANCE_GUID="4347"
